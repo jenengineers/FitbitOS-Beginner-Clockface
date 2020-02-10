@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "8b19081a-5da3-4933-8540-46d74e3949e2",
+    "appType": "clockface",
+    "appDisplayName": "blankslate",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "blankslate"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
