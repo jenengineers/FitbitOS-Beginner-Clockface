@@ -5,15 +5,15 @@ It has only been tested for the versa and may require adjustments for other mode
 # 2/10/2020
 
 The current functionality:
-  -digital clock with shaddow
-  -step counter
-  -heart rate monitor
-  -battery percentage
+  - digital clock with shaddow
+  - step counter
+  - heart rate monitor
+  - attery percentage
   
 Furture functionality to be added:
-  -date
-  -calories
-  -weather
-  -icons for heart rate and step display
+  - date
+  - calories
+  - weather
+  - icons for heart rate and step display
   
 ![](/beginnerclock.png)
