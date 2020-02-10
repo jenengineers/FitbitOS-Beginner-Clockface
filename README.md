@@ -8,7 +8,7 @@ The current functionality:
   - digital clock with shaddow
   - step counter
   - heart rate monitor
-  - attery percentage
+  - battery percentage
   
 Furture functionality to be added:
   - date
