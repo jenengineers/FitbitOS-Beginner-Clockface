@@ -5,7 +5,7 @@ It has only been tested for the versa and may require adjustments for other mode
 # 2/10/2020
 
 The current functionality:
-  - digital clock with shaddow
+  - digital clock with shadow
   - step counter
   - heart rate monitor
   - battery percentage
