@@ -1,0 +1,8 @@
+<svg class="background">
+  <image id="background" href="background.jpg" />
+  <text id="clockShadow" opacity = "0.4"/>
+  <text id="clockLabel" />
+  <text id="batteryLabel" />
+  <text id="stepsLabel" />
+  <text id="heartrateLabel" />
+</svg>
