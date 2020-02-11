@@ -9,6 +9,7 @@ The current functionality:
   - step counter
   - heart rate monitor
   - battery percentage
+  - background image
   
 Future functionality to be added:
   - date
