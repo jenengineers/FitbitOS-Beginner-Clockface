@@ -15,6 +15,6 @@ Future functionality to be added:
   - date
   - calories
   - weather
-  - icons for heart rate and step display
+  - icons for heart rate/steps/weather/calories
   
 ![](/beginnerclock.png)
